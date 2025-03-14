@@ -123,7 +123,7 @@ span{
 /*panel*/
 
 .panel{
-    background-color: rgb(32, 30, 30);
+    background-color: rgb(31.5, 30, 30);
     color: white;
     display: flex;
     height: 39px;
